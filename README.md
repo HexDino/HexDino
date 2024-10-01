@@ -12,7 +12,7 @@
   <h3> I'm a passionate Full-Stack developer from Vietnam aspiring to work in Japan.</h3>
 </p>
 
-I'm **HexDino**, a passionate Fullstack Developer 🚀, always excited to explore new technologies and build cool projects.  
+I'm **Nguyen Thanh Hung**, a passionate Fullstack Developer 🚀, always excited to explore new technologies and build cool projects.  
 Currently in my third year at Hanoi University of Science and Technology 🎓.  
 Aspiring to work in Japan 🇯🇵.
 

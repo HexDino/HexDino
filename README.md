@@ -41,7 +41,6 @@ Aspiring to work in Japan 🇯🇵.
 # 📫 How to reach me:
 - **GitHub**: [HexDino](https://github.com/HexDino)
 - **Email**: hung123dinohex@gmail.com
-- **LinkedIn**: [HexDino](https://www.linkedin.com/in/HexDino)
-
+- **Facebook**: https://www.facebook.com/ThahHugg2703/
 ---
 

@@ -1,16 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:0f2027,50:203a43,100:2c5364\&text=Nguyen%20Thanh%20Hung\&fontSize=46\&fontColor=ffffff\&fontAlignY=36\&desc=Full-Stack%20Developer%20%E2%80%A2%20HexDino\&descAlignY=57\&descSize=18\&animation=fadeIn)
+![Header banner](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:D97757,50:C96442,100:A85A3C\&text=Nguyen%20Thanh%20Hung\&fontSize=44\&fontColor=ffffff\&fontAlignY=35\&desc=Full-Stack%20Developer%20%7C%20HexDino\&descAlignY=56\&descSize=17\&animation=fadeIn)
+
+  
+
 
 <a href="https://github.com/HexDino">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Developer+%F0%9F%9A%80;HUST+Graduate+%F0%9F%8E%93;Building+cool+stuff+with+code+%E2%9C%A8;Aspiring+to+work+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=21\&pause=900\&color=D97757\&center=true\&vCenter=true\&width=640\&lines=Full-Stack+Developer+%F0%9F%9A%80;HUST+Graduate+%F0%9F%8E%93;Clean+code+%E2%80%A2+fast+feedback+%E2%80%A2+real+products;Building+toward+a+career+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />  
 </a>
 
+  
+
+
 <p>  
-  <img src="https://komarev.com/ghpvc/?username=HexDino\&label=Profile%20views\&color=36BCF7\&style=flat-square" alt="Profile views" />  
-  <img src="https://img.shields.io/github/followers/HexDino?label=Followers\&style=flat-square\&color=36BCF7" alt="Followers" />  
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea043?style=flat-square" alt="Open to work" />  
-  <img src="https://img.shields.io/badge/Based%20in-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-da251d?style=flat-square" alt="Vietnam" />  
+  <img src="https://komarev.com/ghpvc/?username=HexDino\&label=Visitors\&color=D97757\&style=flat-square" alt="Visitors" />  
+  <img src="https://img.shields.io/github/followers/HexDino?label=Followers\&style=flat-square\&color=D97757" alt="Followers" />  
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-D97757?style=flat-square" alt="Open to work" />  
 </p>
 
 </div>
@@ -26,93 +31,75 @@ $ whoami
 $ cat profile.json
 {
   "role":       "Full-Stack Developer",
-  "based_in":   "Vietnam 🇻🇳",
-  "target":     "Japan 🇯🇵",
+  "based_in":   "Vietnam",
+  "target":     "Japan",
   "education":  "HUST — Hanoi University of Science and Technology",
   "stack":      ["C++", "C", "Java", "C#", "JavaScript", "Node.js", "React", "MySQL", "PostgreSQL"],
-  "status":     "open to work 🟢",
-  "runtime":    "coffee ☕",
-  "motto":      "Ship it, then make it beautiful."
+  "status":     "open to work",
+  "runtime":    "coffee"
 }
 
 $ ./contact --email
 > hung123dinohex@gmail.com
 ```
 
+I'm **Nguyen Thanh Hung** — a full-stack developer who likes clean architecture, fast feedback loops, and shipping things people actually use. Currently focused on growing toward a development career in Japan.
+
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> About Me
+## 🛠️ Tech Stack
 
-![Coding GIF](https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif)
+<div align="center">
 
-I'm **Nguyen Thanh Hung** — a passionate **Full-Stack Developer** who genuinely enjoys turning ideas into working products. I like clean architecture, fast feedback loops, and shipping things that people actually use.
-
-- 🎓 Graduate of **Hanoi University of Science and Technology (HUST)**
-- 💻 Full-Stack Developer — from database schema to pixel-perfect UI
-- 🌱 Constantly exploring new technologies, frameworks, and tools
-- 🗾 Working towards building my career in **Japan**
-- 🤝 Open to collaboration on interesting projects
-- ⚡ Fun fact: I debug faster with coffee ☕
-- 📫 Reach me at **<hung123dinohex@gmail.com>**
+**Languages**
 
   
 
 
----
+![Languages](https://skillicons.dev/icons?i=cpp,c,java,cs,js,html,css\&theme=light)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Tech Stack
+  
+  
 
-<div align="center">
 
-**🧠 Languages**
-
-![Languages](https://skillicons.dev/icons?i=cpp,c,java,cs,js,html,css\&theme=dark)
-
-**🚀 Frameworks & Runtime**
-
-![Frameworks](https://skillicons.dev/icons?i=nodejs,react\&theme=dark)
-
-**🗄️ Databases & Tooling**
-
-![Databases and tools](https://skillicons.dev/icons?i=mysql,postgres,git,github,figma,latex\&theme=dark)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HexDino\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HexDino\&theme=tokyonight\&hide_border=true\&layout=compact\&langs_count=8\&include_all_commits=true\&count_private=true)
-
-</div>
+**Frameworks & Runtime**
 
   
 
 
-<div align="center">
+![Frameworks](https://skillicons.dev/icons?i=nodejs,react\&theme=light)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HexDino\&theme=tokyonight)
+  
+  
 
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HexDino\&theme=tokyonight)
 
-</div>
+**Databases & Tooling**
 
   
 
 
-<div align="center">
-
-![Stats summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HexDino\&theme=tokyonight)
+![Databases and tools](https://skillicons.dev/icons?i=mysql,postgres,git,github,figma,latex\&theme=light)
 
 </div>
 
 ---
 
-## 🐍 Watch the Snake Eat My Commits
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HexDino\&show_icons=true\&hide_border=true\&rank_icon=github\&bg_color=FAF9F5\&title_color=D97757\&text_color=141413\&icon_color=D97757)
+
+  
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HexDino\&hide_border=true\&layout=compact\&langs_count=8\&bg_color=FAF9F5\&title_color=D97757\&text_color=141413)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -122,34 +109,17 @@ I'm **Nguyen Thanh Hung** — a passionate **Full-Stack Developer** who genuinel
 
 ---
 
-## 😄 While You're Here
+## 💬 Quote of the Day
 
 <div align="center">
 
-<table>  
-<tr>  
-<td align="center" width="50%">
-
-**Random Dev Joke**
-
-![Dev Joke](https://readme-jokes.vercel.app/api?theme=tokyonight\&hideBorder)
-
-</td>  
-<td align="center" width="50%">
-
-**Quote of the Day**
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</td>  
-</tr>  
-</table>
+![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=light)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Connect With Me
+## 📮 Let's Connect
 
 <div align="center">
 
@@ -171,4 +141,4 @@ I'm **Nguyen Thanh Hung** — a passionate **Full-Stack Developer** who genuinel
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:2c5364,50:203a43,100:0f2027\&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:A85A3C,50:C96442,100:D97757\&section=footer)
